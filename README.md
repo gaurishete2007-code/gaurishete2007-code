@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="./gauri-pink-banner.png" width="100%" alt="Gauri's pink and purple butterfly coding banner" />
+</div>
+
+<br/>
+
+
+<div align="center">
 
 # 🎀 Hey there! I'm Gauri 💗
 
